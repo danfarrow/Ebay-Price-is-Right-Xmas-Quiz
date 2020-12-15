@@ -23,8 +23,8 @@ The quiz is intended to be run remotely via screenshare, but could also be run i
 
 ---
 
-#### Answer revealed and winner highlighted
-![Answer revealed and winner highlighted](grab-2.png)
+#### Answer revealed and closest guess highlighted
+![Answer revealed and closest guess highlighted](grab-2.png)
 
 ---
 
