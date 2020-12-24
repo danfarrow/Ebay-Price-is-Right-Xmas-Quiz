@@ -80,10 +80,11 @@ function initEbayQuiz(){
    display: none;
 }
 
-/* Blur selling prices */
+/* Blur selling price & import duty */
 .mainPrice,
 .val.vi-price,
-.discountPrice {
+.discountPrice,
+.sh-impchCost {
    filter: blur(100px);
    transform: rotate(720deg);
 }
